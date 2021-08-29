@@ -1,0 +1,8 @@
+{
+  "name": "TDD_with_Jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:edsondearaujo/TDD_with_Jest.git",
+  "author": "edsondearaujo <edsondearaujofga@gmail.com>",
+  "license": "MIT"
+}
